@@ -1,5 +1,5 @@
-# core-contracts
-Core Smart Contracts 
+# testnet-contracts
+zkSwap Finance Testnet Smart Contracts 
 
 Website: https://zkswap.finance/
 
